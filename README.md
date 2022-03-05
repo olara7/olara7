@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">I have a B.S. in Computer Science with a concentration in Software Engineering.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.oscargl.com/)
+- 👨‍💻 All of my projects are available at https://www.oscargl.com/
 
 - 📫 How to reach me **oscar.olara7@gmail.com**
 
