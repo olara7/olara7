@@ -18,7 +18,7 @@
 ### Job Log
 #### Techonologies used: React, Firebase and Bootstrap
 
-https://github.com/olara7/438_Project_2
+https://github.com/olara7/job-log
 
 Overview: This website helps you keep track of job applications. After you sign up and log in, you can create a job log of your application which includes job title, company, type, location, status and link to the website where the job application is located at. The job logs are displayed in a card grid view where they are color coded depending on the job status. Accepted job logs are green. Active job logs are blue. Inactive job logs are grey. Each job card also includes a dropdown menu button where you can delete or update the selected job log.
 
