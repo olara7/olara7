@@ -15,6 +15,16 @@
 
 ## Web Projects
 
+### Blog Share
+#### Technologies Used: ReactJS, Typescript, NodeJS, PostgreSQL and GraphQL.
+## Overview
+This is a web project where a user can share and view posts.
+- User can login or signup.
+- User can view, create, delete posts.
+- User can view profiles.
+
+![blog-app](https://user-images.githubusercontent.com/54912970/162601376-fa95cd2b-f5eb-4117-9dc2-b6bb31698bcc.png)
+
 ### Job Log
 #### Techonologies used: React, Firebase and Bootstrap
 
