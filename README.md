@@ -17,8 +17,10 @@
 
 ### Blog Share
 #### Technologies Used: ReactJS, Typescript, NodeJS, PostgreSQL and GraphQL.
-## Overview
-This is a web project where a user can share and view posts.
+
+https://github.com/olara7/fullstack-client
+
+Overview: This is a web project where a user can share and view posts.
 - User can login or signup.
 - User can view, create, delete posts.
 - User can view profiles.
