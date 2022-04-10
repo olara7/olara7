@@ -57,10 +57,3 @@ Overview: This is a basic twitter app to view, compose, favorite, and retweet tw
 
 ![687474703a2f2f672e7265636f726469742e636f2f393064777231576953592e676966](https://user-images.githubusercontent.com/54912970/157182964-e9ac9fdd-6069-40af-a0c5-6368d4e2c725.gif)
 
-### Flixter
-#### Technologies used: Swift and The Movie Database API
-
-Overview: Flix is an app that allows users to browse movies from the The Movie Database API.
-
-![687474703a2f2f672e7265636f726469742e636f2f4c715675385763676f6b2e676966](https://user-images.githubusercontent.com/54912970/157183139-e6fa293a-ee37-4519-aaef-9c99eb6e67f2.gif)
-
