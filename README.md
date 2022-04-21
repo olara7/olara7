@@ -62,10 +62,11 @@ Overview: This is an Instagram clone with a custom Parse backend that allows a u
 
 ![687474703a2f2f672e7265636f726469742e636f2f6967564c6d4c436a51442e676966](https://user-images.githubusercontent.com/54912970/157182719-a1b6b9a2-958f-4886-bf8e-031a45aa13ec.gif)
 
-### Twitter Clone
-#### Technologies used: Swift and Twitter API
+### Bob's Burgers Character Viewer
+#### Technologies used: SwiftUI and Bob's Burgers API
 
-Overview: This is a basic twitter app to view, compose, favorite, and retweet tweets.
+Overview: SwiftUI App that uses the Bob's Burgers API to get information about the characters. Characters information is displayed with a search function and a detail view.
 
-![687474703a2f2f672e7265636f726469742e636f2f393064777231576953592e676966](https://user-images.githubusercontent.com/54912970/157182964-e9ac9fdd-6069-40af-a0c5-6368d4e2c725.gif)
+<img width="432" alt="Screen Shot 2022-04-21 at 12 12 07 AM" src="https://user-images.githubusercontent.com/54912970/164401268-f70c0384-a3ac-4732-be9e-bcf9d2270429.png">
+
 
