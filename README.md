@@ -15,6 +15,13 @@
 
 ## Web Projects
 
+### Pokedex
+#### Technologies Used: ReactJs and Poke API
+![pokedexProjectHomeGen4](https://user-images.githubusercontent.com/54912970/166188869-aa1d3468-d93c-4727-b373-f2cab7ee7169.PNG)
+
+Overview: This website is a pokedex. View pokemon from each generation with their details and sprites throughout the games. You can also search for a Pokemon. It is responsive and mobile friendly.
+
+
 ### Blog Share
 #### Technologies Used: ReactJS, Typescript, NodeJS, PostgreSQL and GraphQL.
 
