@@ -15,6 +15,7 @@
 
 ## Web Projects
 ### Front End Mentor Solutions: https://github.com/olara7/front-end-mentor
+Contains: QR Code Component, Expenses Chart Component
 ### Pokedex
 #### Technologies Used: ReactJs and Poke API
 
