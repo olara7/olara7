@@ -16,6 +16,16 @@
 ## Web Projects
 ### Front End Mentor Solutions: https://github.com/olara7/front-end-mentor
 Contains: QR Code Component, Expenses Chart Component
+
+### Planterra - E-Commerce
+### Techonologies Used: React JS, Next JS, Strapi, Stripe and Auth0
+
+https://github.com/olara7/frontend
+
+![planterra](https://user-images.githubusercontent.com/54912970/184286507-d90eae3b-ea77-40aa-8304-1a7b9da3bfde.PNG)
+
+Overview: This is a project built mainly to get experience using a CMS and building an e-commerce site.
+
 ### Pokedex
 #### Technologies Used: ReactJs and Poke API
 
